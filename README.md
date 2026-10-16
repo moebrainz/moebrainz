@@ -1,20 +1,20 @@
 ## Hi! I'm Moses👋
 
-### About Me
+## About Me
 I'm a Fullstack developer that loves building creative projects
 
 ---
 
-### Projects
-# Project One
+## Projects
+### Project One
 Side project
 
-# Project Two
+### Project Two
 Side Project Two
 
 ---
 
-### Contact Me
+## Contact Me
 
 LinkedIn 
 potfolio
